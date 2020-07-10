@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.toper{
+    background-color:#F0FFF0;
+}
+.p-2{
+    margin:10px;
+    padding:10px;
+}
+.baton{
+    background-color: #21B573;
+    border-radius:20px;
+    width: 100px;
+    text-align: center;
+    color: #fff;
+}
+.header{
+    width:198px;
+    height:59px;
+}
+.container{
+    margin-bottom:50px;
+}
+span{
+    color:#21B573; 
+}
+h5{
+    color:#FD511A;
+    margin-bottom:20px;
+}
+h1{
+    font-weight:700;
+    font-size: 65px;
+}
+p{
+    line-height: 50px;
+    padding-top:10px;
+    font-size: 20px;
+}
+.btn{
+    border-radius:25px;
+    background-color:#21B573;
+    color:#fff;
+    padding:8px 30px;
+    font-size:20px;
+    margin-top:10px;
+}
+.card{
+    border:none;
+}
+.card-deck{
+    text-align: center;
+}
+.card-img-top{
+    width:65px;
+    height:100px;
+    padding-top:25px;
+}
+.card-body{
+    margin:20px auto;
+}
+.card-title{
+    color: black;
+    font-weight:bold;
+    font-size:25px;
+    margin-bottom:2px;
+}
+.card-text{
+    line-height: 6px;
+}
+.main{
+    padding:30px 0;
+    background-color:#F0FFF0;
+    border-radius:15px;
+}
+.box-shadow{
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: #fff;
+}
+h6{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 45px;
+}
+.cat{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius:15px;
+}
+.cat img{
+    height:215px;
+    width:310px;
+    padding-top:15px;
+}
+.card-bdy{
+    margin:15px;
+    text-align: left;
+    margin-left:18px;
+}
+.card-bdy .card-txt{
+    color:#585859;
+    padding-top:0;
+}
+.card-bdy .btn{
+    margin-top:0;
+}
+.card-footer{
+    background-color:#fff;
+    border-top:none;
+    padding: 0;
+}
+.card-footer{
+    border-radius: 15px !important;
+}
+.card-footer img{
+    width:18px;
+    height:25px;
+    margin-bottom:10px;
+    padding-top:0;
+    margin-left:15px;
+}
+.card-footer p{
+    font-size:15px;
+    line-height:12px;
+    padding-top:0;
+}
+.man img{
+    height: 170px;
+    width:170px;
+    margin-right: 0;
+}
+.foot{
+    background-color:#282531;
+    color:#fff;
+    font-weight: lighter;
+    overflow: hidden;
+}  
+.foot h3{
+    text-align: left;
+    font-size: medium;
+    line-height: 5px;
+}
+.foot p{
+    font-size:15px;
+    line-height: 10px;
+}
+.box{
+    padding:40px;
+}
+.footer-par{
+    line-height: 25px !important;
+}
+#blue-bg{
+    background-color:#282531;
+    color:#fff;
+    text-align: center;
+}
+.middle{
+    border-radius:15px;
+}
+.footika{
+    text-align: center;
+    background-color:#282531;
+    color:#fff;
+    font-weight: lighter;
+}
