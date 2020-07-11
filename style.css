@@ -1,13 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
+    background-color: #F0FFF0;
 }
-.toper{
+.navbar{
     background-color:#F0FFF0;
 }
-.p-2{
-    margin:10px;
-    padding:10px;
+.navbar ul li{
+    padding:0 10px;
+}
+.nav-link{
+    color:#282531;
+}
+.navbar img{
+    width:198px;
+    height:59px;
+}
+.toper{
+    background-color:#fff;
 }
 .baton{
     background-color: #21B573;
@@ -16,9 +26,8 @@ body{
     text-align: center;
     color: #fff;
 }
-.header{
-    width:198px;
-    height:59px;
+.slider{
+    margin-top:150px;
 }
 .container{
     margin-bottom:50px;
@@ -115,7 +124,7 @@ h6{
 }
 .card-footer img{
     width:18px;
-    height:25px;
+    height:22px;
     margin-bottom:10px;
     padding-top:0;
     margin-left:15px;
@@ -135,7 +144,13 @@ h6{
     color:#fff;
     font-weight: lighter;
     overflow: hidden;
-}  
+} 
+.foot .col-md-2 p{
+    line-height:9px;
+}
+.foot .col-md-2 h3{
+    margin-bottom:15px;
+} 
 .foot h3{
     text-align: left;
     font-size: medium;
@@ -148,8 +163,8 @@ h6{
 .box{
     padding:40px;
 }
-.footer-par{
-    line-height: 25px !important;
+.foot p{
+    line-height:35px;
 }
 #blue-bg{
     background-color:#282531;
